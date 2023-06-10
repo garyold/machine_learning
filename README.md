@@ -7,3 +7,4 @@ With the second part, includes model choosing, parameter adjustment, and predict
 
 
 
+[ml_result.pptx](https://github.com/garyold/machine_learning/files/11712806/ml_result.pptx)
